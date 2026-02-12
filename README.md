@@ -125,8 +125,79 @@ This repository includes a simple Python-based AI service mock to simulate how a
 
 ### Run locally:
 
-```bash
+`bash
 python services/demo_run.py
 
 
 ---
+---
+
+## 📂 Project Structure
+---
+
+## 🏗 System Architecture
+
+``mermaid
+flowchart LR
+    User --> Backend
+    Backend --> AI_Service
+    AI_Service --> RAG
+    RAG --> LLM
+    LLM --> Validation
+    Validation --> Backend
+    Backend --> UI
+    
+Bu seni “gerçek AI mimarisi kurmuş biri” yapar.
+
+---
+
+# 3️⃣ Tech Badges (Premium Görünüm)
+
+README başlığının altına şunu ekle:
+
+``markdown
+![Python](https://img.shields.io/badge/Python-3.x-blue)
+![AI Architecture](https://img.shields.io/badge/AI-Architecture-purple)
+![RAG](https://img.shields.io/badge/RAG-Enabled-green)
+![License](https://img.shields.io/badge/License-MIT-yellow)
+
+
+
+
+---
+
+## 🚀 Why This Project Matters
+
+Most LMS platforms are adding AI as a feature.
+
+This project approaches AI as a transformation layer:
+- Operational efficiency for admins
+- Optimization layer for instructors
+- Personalized learning for learners
+
+This repository demonstrates how to design AI as a product system, not just a chatbot.
+
+
+
+---
+
+## 🧠 Product Design Philosophy
+
+- AI should not replace human control
+- Human-in-the-loop architecture
+- Role-based AI boundaries
+- Measurable KPI-driven AI success
+- Governance-first design
+
+# Mahmut Yılmaz
+
+Technical Product Manager | AI-driven LMS Architect
+
+Focused on:
+- AI product design
+- RAG architecture
+- Human-in-the-loop systems
+- Learning technology innovation
+
+🔗 Featured Project:
+👉 Vedubox AI Copilot
