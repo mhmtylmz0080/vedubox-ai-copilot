@@ -94,6 +94,29 @@ MVP Architecture Designed
 Product Requirements Defined  
 Ready for Technical Implementation
 
+---
+
+## 🎨 Design & Strategy Resources
+
+### 🧠 Product Strategy Presentation
+AI Copilot vision, market positioning and phased roadmap:
+👉 Strategy deck available upon request
+
+### 🎨 UX & Interaction Design (Figma)
+
+Explore the AI Assistant interface prototypes and user flows:
+
+👉 [View Vedubox AI Copilot UI Design](https://relate-bend-32584435.figma.site/)
+
+This design demonstrates:
+- Admin AI assistant panel
+- Instructor engagement insights
+- Learner AI chat interface
+- AI-driven checklist & action flows
+- Role-based UI differentiation
+
+---
+
 
 
 ## 🧪 Demo (AI Service Mock)
@@ -105,3 +128,5 @@ This repository includes a simple Python-based AI service mock to simulate how a
 ```bash
 python services/demo_run.py
 
+
+---
