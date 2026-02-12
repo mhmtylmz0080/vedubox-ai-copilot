@@ -93,3 +93,15 @@ AI-driven adaptive learning paths and predictive insights.
 MVP Architecture Designed  
 Product Requirements Defined  
 Ready for Technical Implementation
+
+
+
+## 🧪 Demo (AI Service Mock)
+
+This repository includes a simple Python-based AI service mock to simulate how a role-based LMS AI assistant might work.
+
+### Run locally:
+
+```bash
+python services/demo_run.py
+
